@@ -1,5 +1,5 @@
 # impala-shell
-impala-shell Docker image
+impala-shell Docker image, available on [Docker Hub](https://hub.docker.com/r/murfffi/impala-shell).
 
 Example: 
 
